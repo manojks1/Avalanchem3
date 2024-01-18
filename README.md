@@ -11,9 +11,9 @@ This Solidity smart contract facilitates the creation of a custom ERC20 token on
 
 To use this contract, you will need:
 
-1)An Ethereum wallet (such as MetaMask) to interact with the contract
+1)An Ethereum wallet (such as MetaMask or a test address) to interact with the contract
 
-2)Some ETH to pay for gas fees on the Ethereum network
+2)Some gas fees on the transaction
 ## Usage
 
 1)Deploy the contract onto the Ethereum network using Remix or an alternative Solidity compiler. Ensure that you set the name and symbol for your token during deployment.
